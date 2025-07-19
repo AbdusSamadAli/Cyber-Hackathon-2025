@@ -50,7 +50,7 @@
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: FastAPI (Python)
-- **AI/NLP Models**: BERT (for SMS, Email), Logistic-style scoring for calls
+- **AI/NLP Models**: BERT (for SMS, Email,Call), used open-ai whisper library for audio(call recording file) to text conversion
 - **External Integration**: Model APIs for classification, user feedback submission
 - **Languages**: Python, JavaScript
 - **Database**: MongoDB
