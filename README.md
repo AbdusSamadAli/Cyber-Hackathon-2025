@@ -2,6 +2,8 @@
 
 **Spam Shield AI** is an AI-powered solution designed to detect and prevent spam across multiple communication channels — including **calls**, **SMS**, and **emails** — with multilingual support (including Hinglish). The system analyzes user-submitted content, applies advanced transformer models, and computes a real-time **risk score** to help identify and manage potential fraud.
 
+![Spam Shield AI Email Demo](./homepagess2.jpg)
+![Spam Shield AI Email Demo](./email_spam_ss.jpg)
 ---
 
 ## 🌟 Key Features
