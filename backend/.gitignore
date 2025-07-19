@@ -22,3 +22,12 @@ bert-fraud-checkpoint/
 
 # OS files
 .DS_Store
+
+*.ipynb
+*.wav
+*.mp4
+*.safetensors
+*.csv
+
+call model.ipynb
+
