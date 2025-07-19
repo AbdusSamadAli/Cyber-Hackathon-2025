@@ -28,6 +28,5 @@ bert-fraud-checkpoint/
 *.mp4
 *.safetensors
 *.csv
-
-call model.ipynb
+.cache
 
