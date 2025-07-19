@@ -1,0 +1,24 @@
+# .gitignore
+
+# Virtual environments
+venv/
+__pycache__/
+
+# Model weights & checkpoints
+*.bin
+*.pt
+bert_call_model/
+bert-fraud-checkpoint/
+
+# Env files
+.env
+
+# Audio/data files
+*.wav
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store

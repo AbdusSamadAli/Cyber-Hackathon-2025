@@ -1,0 +1,198 @@
+[
+  {
+    "label": "ham",
+    "subject": "Bhai, project update chahiye",
+    "content": "Hey bro, kal tak project ka status bhej de na. Client se meeting hai, thoda detail chahiye. Call karna if any doubts. Cheers!",
+    "links": [],
+    "attachment": null
+  },
+  {
+    "label": "spam",
+    "subject": "Aapka 1 Lakh ka Prize Jeetne ka Mauka!",
+    "content": "Congratulations! Aap lucky winner hain. 1 Lakh ka cash prize claim karne ke liye is link pe click karen. Hurry, offer sirf aaj tak! Claim now: www.winnermoney.in",
+    "links": ["https://www.winnermoney.in"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Didi, picnic ka plan",
+    "content": "Hi Didi, is weekend pe picnic plan kar rahe hain. Sab milke Lonavala ja sakte hain. Check karke bata na if you’re free. Itinerary attach kiya hai.",
+    "links": [],
+    "attachment": "itinerary.pdf"
+  },
+  {
+    "label": "spam",
+    "subject": "50% OFF on All Recharge Plans!",
+    "content": "Recharge now and get 50% OFF! Limited time offer. Visit our site to avail this deal: www.rechargedeals.co.in. T&C apply.",
+    "links": ["https://www.rechargedeals.co.in"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Office meeting reschedule",
+    "content": "Team, meeting jo aaj thi, wo ab kal subah 10 baje hogi. Agenda attach kar diya hai. Prep karke aana sab. Thanks!",
+    "links": [],
+    "attachment": "agenda.docx"
+  },
+  {
+    "label": "spam",
+    "subject": "Free iPhone 15 GiveAway!",
+    "content": "You’ve been selected for a free iPhone 15! Click here to claim your prize: www.freeiphoneoffer.biz. Don’t miss out, offer ends soon!",
+    "links": ["https://www.freeiphoneoffer.biz"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Yaar, birthday party invite",
+    "content": "Bhai, meri birthday agle hafte hai! Party at my place, 7 PM onwards. Bring your vibe, baaki sab sorted hai. RSVP kar de. Invite attach kiya.",
+    "links": [],
+    "attachment": "invite.jpg"
+  },
+  {
+    "label": "spam",
+    "subject": "Work From Home - Earn 20K Daily!",
+    "content": "Join our program and earn 20,000 daily from home. No experience needed! Register now: www.easyworkhome.in. Download brochure for details.",
+    "links": ["https://www.easyworkhome.in"],
+    "attachment": "brochure.pdf"
+  },
+  {
+    "label": "ham",
+    "subject": "Mummy ka message",
+    "content": "Beta, ghar aate waqt doodh le aana. Aur haan, kal shaam ko relatives aa rahe hain, thoda jaldi aaja. Love, Mumma.",
+    "links": [],
+    "attachment": null
+  },
+  {
+    "label": "spam",
+    "subject": "Exclusive Fashion Sale - Buy 1 Get 1 Free!",
+    "content": "Shop now and get Buy 1 Get 1 Free on all fashion items! Visit: www.fashionextravaganza.co.in. Limited stock, hurry!",
+    "links": ["https://www.fashionextravaganza.co.in"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Meeting Reminder - Project Discussion",
+    "content": "Hi team,\n\nJust a reminder about our project meeting tomorrow at 11 AM in Conference Room B.\nPlease bring your progress reports.\n\nRegards,\nJohn",
+    "links": [],
+    "attachment": "meeting_agenda.pdf"
+  },
+  {
+    "label": "spam",
+    "subject": "URGENT: Your Account Will Be Suspended!",
+    "content": "Dear User,\n\nYour account has been flagged for suspicious activity. Verify your details immediately to avoid suspension:\n\nClick here: http://secure-login-fake.com/verify\n\nDo not ignore this warning!\n\nSecurity Team",
+    "links": ["http://secure-login-fake.com/verify"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Weekend Trip Plans",
+    "content": "Hey guys,\n\nAre we still on for the weekend trip to Lonavala? Let me know if anyone has suggestions for places to visit.\n\nCheers,\nRahul",
+    "links": [],
+    "attachment": null
+  },
+  {
+    "label": "spam",
+    "subject": "Exclusive Offer: 90% Off on iPhone 15!",
+    "content": "Limited-time deal! Get the new iPhone 15 for just ₹10,000 (90% OFF).\n\nHurry, stock is running out!\n\nBuy now: http://scam-deals.com/iphone15\n\n*Terms & Conditions Apply",
+    "links": ["http://scam-deals.com/iphone15"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Your Invoice #INV-2024-0567",
+    "content": "Hello,\n\nYour invoice for the recent purchase is attached. Payment is due by 30th June.\n\nThank you,\nCustomer Support",
+    "links": [],
+    "attachment": "invoice_INV-2024-0567.pdf"
+  },
+  {
+    "label": "spam",
+    "subject": "You Won a Luxury Cruise!",
+    "content": "CONGRATULATIONS!\n\nYou've been selected for a FREE 7-day luxury cruise to the Bahamas!\n\nClaim your prize now: http://fake-winner.com/cruise\n\n*Limited availability",
+    "links": ["http://fake-winner.com/cruise"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Feedback Request: Recent Purchase",
+    "content": "Hi Customer,\n\nWe’d love your feedback on your recent order. Please take a quick survey:\n\nSurvey Link: http://legit-survey.com/feedback\n\nThanks for your time!\n\nSupport Team",
+    "links": ["http://legit-survey.com/feedback"],
+    "attachment": null
+  },
+  {
+    "label": "spam",
+    "subject": "Your Netflix Subscription Expired",
+    "content": "IMPORTANT: Your Netflix account has been suspended due to payment failure.\n\nUpdate your payment method now to avoid interruption:\n\nhttp://netflix-phishing.com/update\n\nNetflix Support",
+    "links": ["http://netflix-phishing.com/update"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Meeting Reminder: Project Sync",
+    "content": "Hi team, just a reminder that we have our weekly sync at 3 PM today. Please be prepared with your updates.",
+    "links": [],
+    "attachment": null
+  },
+  {
+    "label": "spam",
+    "subject": "You Won a Free Cruise to the Bahamas!",
+    "content": "Claim your free cruise tickets now! Limited offer for our lucky subscribers!",
+    "links": ["http://freecruise.fakeoffer.com"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Invoice for May 2025",
+    "content": "Dear client, please find attached the invoice for the services rendered in May 2025.",
+    "links": [],
+    "attachment": "invoice_may2025.pdf"
+  },
+  {
+    "label": "spam",
+    "subject": "Account Alert: Suspicious Activity Detected",
+    "content": "We've noticed unusual activity on your bank account. Click the link below to secure your account.",
+    "links": ["http://securebank-alert.net"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Photos from the Weekend",
+    "content": "Hey, I’ve attached the pictures we clicked on our trip. Let me know what you think!",
+    "links": [],
+    "attachment": "trip_photos.zip"
+  },
+  {
+    "label": "spam",
+    "subject": "Work From Home & Make ₹50,000/month!",
+    "content": "No experience needed. Apply today and start earning from home easily.",
+    "links": ["http://earnfromhome.easyjob.com"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Team Outing Plan",
+    "content": "Let’s finalize the plan for the team outing next weekend. Suggestions welcome.",
+    "links": [],
+    "attachment": null
+  },
+  {
+    "label": "spam",
+    "subject": "Reset Your Password Immediately!",
+    "content": "Your account password has expired. Click the link below to reset it.",
+    "links": ["http://fake-reset-password.com"],
+    "attachment": null
+  },
+  {
+    "label": "ham",
+    "subject": "Job Confirmation Letter",
+    "content": "We are pleased to offer you the position. Please review the attached confirmation letter.",
+    "links": [],
+    "attachment": "job_offer_letter.pdf"
+  },
+  {
+    "label": "spam",
+    "subject": "Get a Brand New Laptop for ₹999 Only!",
+    "content": "Exclusive offer just for you. Visit the link and claim your laptop now.",
+    "links": ["http://cheap-laptop-deal.fake"],
+    "attachment": null
+  }
+]
