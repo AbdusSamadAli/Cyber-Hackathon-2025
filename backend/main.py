@@ -1,5 +1,3 @@
-# backend/main.py
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from core.config import origins
@@ -26,5 +24,5 @@ def root():
 
 if __name__ == "__main__":
     import uvicorn
-    print("🚀 Running directly with Python")
+    print("Running directly with Python")
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
